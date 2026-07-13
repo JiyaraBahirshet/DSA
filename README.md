@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/JiyaraBahirshet/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/JiyaraBahirshet/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/JiyaraBahirshet/DSA/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/JiyaraBahirshet/DSA/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/JiyaraBahirshet/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/JiyaraBahirshet/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/JiyaraBahirshet/DSA/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/JiyaraBahirshet/DSA/tree/master/0152-maximum-product-subarray) |
 ## Sorting
 |  |
 | ------- |
