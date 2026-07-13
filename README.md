@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JiyaraBahirshet/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/JiyaraBahirshet/DSA/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/JiyaraBahirshet/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/JiyaraBahirshet/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -60,4 +61,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/JiyaraBahirshet/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/JiyaraBahirshet/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/JiyaraBahirshet/DSA/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/JiyaraBahirshet/DSA/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/JiyaraBahirshet/DSA/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/JiyaraBahirshet/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/JiyaraBahirshet/DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/JiyaraBahirshet/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/JiyaraBahirshet/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
