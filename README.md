@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JiyaraBahirshet/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/JiyaraBahirshet/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/JiyaraBahirshet/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JiyaraBahirshet/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JiyaraBahirshet/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/JiyaraBahirshet/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/JiyaraBahirshet/DSA/tree/master/0560-subarray-sum-equals-k) |
