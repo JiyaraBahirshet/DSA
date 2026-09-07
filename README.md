@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JiyaraBahirshet/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/JiyaraBahirshet/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/JiyaraBahirshet/DSA/tree/master/0189-rotate-array) |
+| [0282-expression-add-operators](https://github.com/JiyaraBahirshet/DSA/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/JiyaraBahirshet/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/JiyaraBahirshet/DSA/tree/master/1922-count-good-numbers) |
 ## Simulation
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/JiyaraBahirshet/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/JiyaraBahirshet/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JiyaraBahirshet/DSA/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/JiyaraBahirshet/DSA/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/JiyaraBahirshet/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/JiyaraBahirshet/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/JiyaraBahirshet/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/JiyaraBahirshet/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/JiyaraBahirshet/DSA/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/JiyaraBahirshet/DSA/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |
