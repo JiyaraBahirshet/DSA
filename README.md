@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/JiyaraBahirshet/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/JiyaraBahirshet/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/JiyaraBahirshet/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/JiyaraBahirshet/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/JiyaraBahirshet/DSA/tree/master/0410-split-array-largest-sum) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/JiyaraBahirshet/DSA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/JiyaraBahirshet/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JiyaraBahirshet/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JiyaraBahirshet/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/JiyaraBahirshet/DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -395,4 +398,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/JiyaraBahirshet/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/JiyaraBahirshet/DSA/tree/master/2104-sum-of-subarray-ranges) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/JiyaraBahirshet/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/JiyaraBahirshet/DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/JiyaraBahirshet/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
