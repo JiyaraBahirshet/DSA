@@ -1,18 +1,25 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        if (n <= 2)
+        if (n <= 2) {
             return 0;
+        }
 
-        // Only store odd numbers
-        vector<bool> isPrime(n, true);
+        // Number of odd numbers less than n
+        vector<bool> prime(n, true);
 
-        isPrime[0] = isPrime[1] = false;
+        prime[0] = prime[1] = false;
 
-        for (int i = 3; 1LL * i * i < n; i += 2) {
-            if (isPrime[i]) {
-                for (long long j = 1LL * i * i; j < n; j += 2 * i) {
-                    isPrime[j] = false;
+        // Remove even numbers
+        for (int i = 4; i < n; i += 2) {
+            prime[i] = false;
+        }
+
+        // Sieve only using odd numbers
+        for (int i = 3; i * i < n; i += 2) {
+            if (prime[i]) {
+                for (int j = i * i; j < n; j += 2 * i) {
+                    prime[j] = false;
                 }
             }
         }
@@ -20,8 +27,9 @@ public:
         int count = 1; // 2 is prime
 
         for (int i = 3; i < n; i += 2) {
-            if (isPrime[i])
+            if (prime[i]) {
                 count++;
+            }
         }
 
         return count;
