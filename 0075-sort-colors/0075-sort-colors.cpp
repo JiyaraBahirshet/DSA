@@ -16,14 +16,17 @@ public:
             }
         }
         int i=0;
-        while(zero--){
+        while(zero!=0){
             nums[i++]=0;
+            zero--;
         }
-        while(one--){
+        while(one!=0){
             nums[i++]=1;
+            one--;
         }
-        while(two--){
+        while(two!=0){
             nums[i++]=2;
+            two--;
         }
         
     }
