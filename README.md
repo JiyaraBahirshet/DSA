@@ -479,5 +479,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JiyaraBahirshet/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/JiyaraBahirshet/DSA/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/JiyaraBahirshet/DSA/tree/master/0455-assign-cookies) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/JiyaraBahirshet/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
