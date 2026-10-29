@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/JiyaraBahirshet/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JiyaraBahirshet/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/JiyaraBahirshet/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,14 +268,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JiyaraBahirshet/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/JiyaraBahirshet/DSA/tree/master/0493-reverse-pairs) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/JiyaraBahirshet/DSA/tree/master/0493-reverse-pairs) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/JiyaraBahirshet/DSA/tree/master/0493-reverse-pairs) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/JiyaraBahirshet/DSA/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/JiyaraBahirshet/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JiyaraBahirshet/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JiyaraBahirshet/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/JiyaraBahirshet/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
@@ -468,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Algorithm X
 |  |
 | ------- |
@@ -601,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JiyaraBahirshet/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
