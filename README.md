@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/JiyaraBahirshet/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/JiyaraBahirshet/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JiyaraBahirshet/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JiyaraBahirshet/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/JiyaraBahirshet/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JiyaraBahirshet/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JiyaraBahirshet/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/JiyaraBahirshet/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/JiyaraBahirshet/DSA/tree/master/0547-number-of-provinces) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/JiyaraBahirshet/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/JiyaraBahirshet/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JiyaraBahirshet/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/JiyaraBahirshet/DSA/tree/master/0785-is-graph-bipartite) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/JiyaraBahirshet/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/JiyaraBahirshet/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
