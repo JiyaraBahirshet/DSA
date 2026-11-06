@@ -1,35 +1,49 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if(head==NULL || k==1){
-            return head;
-        }
-        ListNode* temp=head;
-        for(int i=0;i<k;i++){
-            if(temp==NULL){
-                return head;
+
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+
+        ListNode* groupPrev = dummy;
+
+        while (true) {
+
+            // Step 1: Find kth node
+            ListNode* kth = groupPrev;
+
+            for (int i = 0; i < k && kth != NULL; i++) {
+                kth = kth->next;
             }
-            temp=temp->next;
+
+            // Not enough nodes
+            if (kth == NULL) {
+                break;
+            }
+
+            // Step 2: Store the next group's starting node
+            ListNode* groupNext = kth->next;
+
+            // Step 3: Reverse current group
+            ListNode* prev = groupNext;
+            ListNode* curr = groupPrev->next;
+
+            while (curr != groupNext) {
+                ListNode* front = curr->next;
+                curr->next = prev;
+                prev = curr;
+                curr = front;
+            }
+
+            // Step 4: Connect reversed group
+            ListNode* temp = groupPrev->next;
+            groupPrev->next = kth;
+            groupPrev = temp;
         }
-        ListNode* prev=NULL;
-        ListNode* curr=head;
-        for(int i=0;i<k;i++){
-            ListNode* nextNode=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=nextNode;
-        }
-        head->next=reverseKGroup(curr,k);
-        return prev;
+
+        ListNode* newHead = dummy->next;
+        delete dummy;
+
+        return newHead;
     }
 };
