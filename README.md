@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/JiyaraBahirshet/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JiyaraBahirshet/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/JiyaraBahirshet/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/JiyaraBahirshet/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JiyaraBahirshet/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/JiyaraBahirshet/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/JiyaraBahirshet/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/JiyaraBahirshet/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/JiyaraBahirshet/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/JiyaraBahirshet/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JiyaraBahirshet/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JiyaraBahirshet/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/JiyaraBahirshet/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/JiyaraBahirshet/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/JiyaraBahirshet/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/JiyaraBahirshet/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/JiyaraBahirshet/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/JiyaraBahirshet/DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/JiyaraBahirshet/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
 | ------- |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/JiyaraBahirshet/DSA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/JiyaraBahirshet/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/JiyaraBahirshet/DSA/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/JiyaraBahirshet/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/JiyaraBahirshet/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
@@ -518,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/JiyaraBahirshet/DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/JiyaraBahirshet/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Algorithm X
 |  |
@@ -714,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/JiyaraBahirshet/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/JiyaraBahirshet/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/JiyaraBahirshet/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/JiyaraBahirshet/DSA/tree/master/1631-path-with-minimum-effort) |
 ## DP on Trees
 |  |
 | ------- |
@@ -799,4 +806,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/JiyaraBahirshet/DSA/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/JiyaraBahirshet/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
