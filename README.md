@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/JiyaraBahirshet/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/JiyaraBahirshet/DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/JiyaraBahirshet/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/JiyaraBahirshet/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/JiyaraBahirshet/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Sorting
 |  |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/JiyaraBahirshet/DSA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/JiyaraBahirshet/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/JiyaraBahirshet/DSA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/JiyaraBahirshet/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/JiyaraBahirshet/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/JiyaraBahirshet/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/JiyaraBahirshet/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/JiyaraBahirshet/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/JiyaraBahirshet/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/JiyaraBahirshet/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/JiyaraBahirshet/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/JiyaraBahirshet/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/JiyaraBahirshet/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/JiyaraBahirshet/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/JiyaraBahirshet/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/JiyaraBahirshet/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JiyaraBahirshet/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -762,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/JiyaraBahirshet/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/JiyaraBahirshet/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/JiyaraBahirshet/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/JiyaraBahirshet/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/JiyaraBahirshet/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
 |  |
@@ -802,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/JiyaraBahirshet/DSA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/JiyaraBahirshet/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
